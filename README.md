@@ -1,7 +1,7 @@
 # QuickRun
 QuickRun is a Powershell script that combines several different commonly run scripts into one neatly organized script!
 
-
+![Capture](https://user-images.githubusercontent.com/33265806/54099576-fca79d80-4387-11e9-95a5-e6843a79009e.PNG)
 # Features
 Currently QuickRun include:
 
