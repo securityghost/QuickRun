@@ -4,8 +4,14 @@ QuickRun is a Powershell script that combines several different commonly run scr
 ![Capture](https://user-images.githubusercontent.com/33265806/54099576-fca79d80-4387-11e9-95a5-e6843a79009e.PNG)
 # Features
 Currently QuickRun include:
+* StickyKey CommandPromt Hack
+* Reset Security Settings
+* Refresh Wifi Settings
+* Grab Wifi Passwords
+* Grab System Info
+* Add New Admin Account 
 
-
+Make sure you set the Execution Policy in order to run script: `Set-ExecutionPolicy -ExecutionPolicy Unrestricted`
  ### 
 # Support 
 Any problems with QuickRun or simply suggestions for new updates? Let us know and we'll be happy to help in any way we can! 
